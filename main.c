@@ -1,14 +1,4 @@
-/*
-	==================================================
-	Workshop #5 (Part-2):
-	==================================================
-	Name   : Noel Ibruli
-	ID     : 117745216
-	Email  : nibruli@myseneca.ca
-	Section: NEE
-*/
 #define _CRT_SECURE_NO_WARNINGS
-
 #include <stdio.h>
 
 #define MAX_LENGTH 70
